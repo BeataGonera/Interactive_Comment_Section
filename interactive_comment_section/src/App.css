@@ -1,0 +1,17 @@
+.App {
+background: hsl(228, 33%, 97%);
+width: 100vw;
+height: 100vh;
+padding-top: 5vh;
+box-sizing: border-box;
+}
+
+.counter-style{
+    background: hsl(228, 33%, 97%);
+    width: 60%;
+    height: 65%;
+    border-radius: 12px;
+    display: flex;
+    flex-direction: column;
+}
+
